@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pandas
+python-multipart
+openpyxl
+langchain-google-genai
+google-generativeai
+pydantic
+python-dotenv
